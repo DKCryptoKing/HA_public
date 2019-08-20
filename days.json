@@ -1,0 +1,15 @@
+{
+  "IMPORTANT_DAYS": {
+    "static": {
+      "01/05": "Fars Fødselsdag",
+      "08/03": "Mors Fødselsdag",
+      "20/08": "Tests Fødselsdag" 
+    },
+    "dynamic": {
+      "1/1/2019": "MLK Day",
+      "1/8/2020": "MLK Day",
+      "1/9/2021": "MLK Day",
+      "30/8/2025": "Thanksgiving Day"
+    }
+  }
+}
